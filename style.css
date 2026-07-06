@@ -15,7 +15,8 @@ body {
 
 .container {
   background-color: rgb(223, 223, 223);
-  width: 80vw;
+  width: 800px;
+  max-width: 80vw;
   min-height: 100px;
   display: flex;
   flex-direction: column;
